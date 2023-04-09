@@ -36,7 +36,7 @@ USER = "yourmysqlusername"
 PASSWORD = "yourpassword"
 DATABASE="pythonsql"
 ```
-for reference you can check the below image
+#### for reference you can check the image
 ![image](readme_resources/env.JPG)
 
 - Now  run **main.py** on terminal.
