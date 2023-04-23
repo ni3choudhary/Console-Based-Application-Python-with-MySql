@@ -56,7 +56,7 @@ class DBOperations:
             for row in cursor:
                 print("User Id : ", row[0])
                 print("User Name :", row[1])
-                print("User Phone : ", row[2])
+                print("Major : ", row[3])
                 print()
             logging.info("Data Fetched Successfully...")
         except Exception as e:
